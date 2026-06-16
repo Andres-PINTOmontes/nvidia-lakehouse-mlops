@@ -1,4 +1,4 @@
-# 🚀 NVIDIA Stock Price Prediction - Lakehouse MLOps Pipeline
+#  NVIDIA Stock Price Prediction - Lakehouse MLOps Pipeline
 
 [![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?logo=databricks)](https://databricks.com)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?logo=mlflow)](https://mlflow.org)
@@ -9,7 +9,7 @@ Proyecto completo de MLOps en Databricks para predecir movimientos de acciones d
 
 ---
 
-## 📋 Tabla de Contenidos
+##  Tabla de Contenidos
 
 - [Descripción General](#-descripción-general)
 - [Arquitectura](#-arquitectura)
@@ -25,7 +25,7 @@ Proyecto completo de MLOps en Databricks para predecir movimientos de acciones d
 
 ---
 
-## 🎯 Descripción General
+##  Descripción General
 
 Este proyecto implementa un pipeline end-to-end de Machine Learning en Databricks para predecir si el precio de cierre de las acciones de NVIDIA subirá o bajará al día siguiente. Utiliza:
 
@@ -36,7 +36,7 @@ Este proyecto implementa un pipeline end-to-end de Machine Learning en Databrick
 - **Jobs programados** para ejecución automática (diaria/semanal)
 - **Dashboard interactivo** con visualizaciones de análisis técnico
 
-### 🎯 Objetivo del Negocio
+###  Objetivo del Negocio
 
 Proporcionar predicciones diarias automatizadas del movimiento de acciones de NVIDIA para:
 - Análisis técnico de tendencias
