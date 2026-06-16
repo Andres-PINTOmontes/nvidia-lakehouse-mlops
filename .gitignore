@@ -1,0 +1,66 @@
+# Databricks specific
+.databricks/
+databricks.yml
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# MLflow artifacts (local)
+mlruns/
+mlartifacts/
+
+# Data files (if any local copies)
+*.csv
+*.parquet
+*.json
+data/
+
+# Secrets and configs
+.env
+secrets/
+*.key
+*.pem
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation builds
+docs/_build/
